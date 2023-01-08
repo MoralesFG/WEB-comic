@@ -1,0 +1,92 @@
+* {
+    align-items: center;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(206, 205, 205);
+    border: 10px solid black;
+    margin: auto;
+    font-family: lato;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: 300;
+    letter-spacing: 10px;
+    margin-left: 1px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    padding-top: 5px;
+}
+
+div {
+    background-color: white;
+    max-width: 980px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+p {
+    max-width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 1px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+blockquote {
+    font-weight: 900;
+    border-left: 5px rgb(121, 121, 121) solid;
+    line-height: 10px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px
+    
+}
+
+span {
+    font-size: 15px;
+    margin-left: 0.5px;
+}
+
+nav {
+    max-width: 100%;
+    height: 2px;
+    background-color: grey; opacity: 30%;
+    margin-left: 1px;
+}
+
+strong {
+    margin-left: 10px;
+}
+
+figure {
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
